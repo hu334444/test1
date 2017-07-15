@@ -1,0 +1,17 @@
+{
+
+	"css": {
+		"import": ["https://rawgit.com/beginpl/kuznia/master/general.css"]
+	},
+	"images": {
+		"background": "https://wallpaperscraft.com/image/wood_cold_darkness_snow_54960_3840x2160.jpg",
+		"booth": "http://i.imgur.com/1SOFiX9.gif"
+	},
+	"rules": {
+		"allowAutojoin": "true",
+		"allowAutorespond": "true",
+		"allowAutowoot": "true",
+		"allowEmotes": "true",
+		"allowShowingMehs": "false"
+	}
+}
