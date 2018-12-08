@@ -1,7 +1,7 @@
 {
 
 	"css": {
-		"import": ["https://rawgit.com/beginpl/kuznia/master/general.css"]
+		"import": ["https://cdn.jsdelivr.net/gh/beginpl/kuznia@master/general.css"]
 	},
 	"images": {
 		"background": "https://wallpaperscraft.com/image/wood_cold_darkness_snow_54960_3840x2160.jpg",
